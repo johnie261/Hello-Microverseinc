@@ -42,11 +42,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Microverseinc] <a name="about-project"></a>
+# 📖 Hello Microverseinc <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[Hello Microverseinc]** is a...
+**Hello Microverseinc is a My first microverse project
 
 ## 🛠 Built With <a name="built-with">HTML and CSS</a>
 
@@ -68,7 +68,7 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[A simple project]**
+- A simple project created using HTML and CSS
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -78,7 +78,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Not yet deployed]
+- Not yet deployed
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
