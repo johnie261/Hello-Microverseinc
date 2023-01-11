@@ -26,21 +26,12 @@ After you're finished please remove all the comments and instructions!
 -->
 
 
-  <h3><b>Microverse README Template</b></h3>
+<!-- TABLE OF CONTENTS -->
 
-</div>
+# 📗 Table of Contents
 
-<!-- PROJECT DESCRIPTION -->
-
-# 📖 [Hello Microverseinc] <a name="about-project"></a>
-
-> Describe your project in 1 or 2 sentences.
-
-**[Hello Microverseinc]** is my first project...
-i have created it using HTML and CSS
-
-## 🛠 Built With <a name="built-with">HTML and CSS</a>
-=======
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
@@ -61,16 +52,15 @@ i have created it using HTML and CSS
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+ 📖 Hello Microverseinc <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+ Hello Microverseinc is a my first microverse project build by HTML and CSS.
 
-## 🛠 Built With <a name="built-with">HTML and CSS</a>
->>>>>>> main
+ 🛠 Built With <a name="built-with">HTML and CSS</a>
 
-### Tech Stack <a name="tech-stack"></a>
+ Tech Stack <a name="tech-stack"></a>
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
@@ -101,9 +91,9 @@ i have created it using HTML and CSS
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- It is a reliable application.
+- It help team-work and collaboration to work efficiently,
+- It is a flexible application.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -167,9 +157,10 @@ Example command:
 
 To run the project, execute the following command:
 
+index.html
 <!--
 Example command:
-
+index.html
 ```sh
   rails server
 ```
@@ -179,6 +170,7 @@ Example command:
 
 To run tests, run the following command:
 
+index.html
 <!--
 Example command:
 
@@ -207,25 +199,12 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-<<<<<<< HEAD
-self project
-- GitHub: [@githubhandle](https://github.com/johnie261)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-=======
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/johnie261)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Twitter: [@twitterhandle](https://twitter.com/njorogejohnie)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/john-njoroge-19b6a4245/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -235,9 +214,8 @@ self project
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- I am working on adding the update feature.
+- I am working on adding the upgrade feature.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -257,7 +235,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project you may link with me via my GitHub account
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -267,7 +245,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank my parents for support they have shown.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -294,3 +272,5 @@ I would like to thank...
 This project is [MIT](./LICENSE) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
