@@ -52,17 +52,15 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
- 📖 Hello Microverseinc <a name="about-project"></a>
+ # 📖 Hello Microverseinc <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
  Hello Microverseinc is a my first microverse project build by HTML and CSS.
 
- 🛠 Built With <a name="built-with">HTML and CSS</a>
+ ## 🛠 Built With <a name="built-with">HTML and CSS</a>
 
- Tech Stack <a name="tech-stack"></a>
+ ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -89,7 +87,7 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+
 
 - It is a reliable application.
 - It help team-work and collaboration to work efficiently,
@@ -101,7 +99,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://yourdeployedapplicationlink.com)
 
@@ -111,7 +108,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -197,7 +193,7 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+
 
 👤 **Author1**
 
@@ -212,7 +208,6 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - I am working on adding the update feature.
 - I am working on adding the upgrade feature.
@@ -233,7 +228,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
 If you like this project you may link with me via my GitHub account
 
@@ -243,7 +237,7 @@ If you like this project you may link with me via my GitHub account
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+
 
 I would like to thank my parents for support they have shown.
 
@@ -253,7 +247,6 @@ I would like to thank my parents for support they have shown.
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[Question_1]**
 
