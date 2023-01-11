@@ -127,6 +127,8 @@ Example command:
 
 Clone this repository to your desired folder:
 
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
 <!--
 Example commands:
 
@@ -139,6 +141,7 @@ Example commands:
 ### Install
 
 Install this project with:
+
 
 <!--
 Example command:
@@ -179,6 +182,7 @@ Example command:
 
 You can deploy this project using:
 
+index.html
 <!--
 Example:
 
