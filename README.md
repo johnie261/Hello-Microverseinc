@@ -46,7 +46,7 @@ After you're finished please remove all the comments and instructions!
 
 > Describe your project in 1 or 2 sentences.
 
-**Hello Microverseinc is a My first microverse project
+Hello Microverseinc is a My first microverse project
 
 ## 🛠 Built With <a name="built-with">HTML and CSS</a>
 
@@ -101,6 +101,7 @@ run index.html file
 > Mention all of the collaborators of this project.
 
 self project
+- GitHub: [@githubhandle](https://github.com/johnie261)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
